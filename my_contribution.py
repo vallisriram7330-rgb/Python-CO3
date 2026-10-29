@@ -1,5 +1,4 @@
-
-def welcome_message(name):
+def welcome_message(name: str) -> str:
     return f"Welcome to GitHub collaboration, {name}!"
 
 
