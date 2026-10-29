@@ -1,5 +1,5 @@
 def welcome_message(name: str) -> str:
-    return f"Welcome to GitHub collaboration, {name}!"
+    return f"Hello, {name}! This message is from the main branch."
 
 
 if __name__ == "__main__":
